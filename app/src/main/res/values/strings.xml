@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Find Your Pet</string>
+    <string name="title_activity_navigation">Find Your Pet</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">List</string>
+    <string name="title_activity_maps">My_Map</string>
+</resources>
